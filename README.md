@@ -1,16 +1,21 @@
-## Hi there 👋
+# Sakline Mostak
 
-<!--
-**sakline-m/sakline-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am focused on online task-based work that requires accuracy, attention to detail, and guideline compliance. This GitHub profile is used to showcase structured samples of my work.
 
-Here are some ideas to get you started:
+## Skills Overview
+- Data entry & data organization
+- Content review & quality checking
+- Basic translation (Bangla ⇄ English)
+- Transcription formatting
+- Search & map-based evaluation tasks
+- Data annotation (text & image level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work Style
+- Instruction-following
+- Accuracy-first approach
+- Consistent formatting
+- On-time delivery mindset
+
+## Note
+All samples are for demonstration purposes only.
